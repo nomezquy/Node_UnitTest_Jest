@@ -1,0 +1,16 @@
+{
+  "name": "fizzbuzz_aplicacionjest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch":"jest --watchAll"
+  },
+  "keywords": ["Node","Jest","UnitTest"],
+  "author": "Daniel Nomezquy Vargas",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
